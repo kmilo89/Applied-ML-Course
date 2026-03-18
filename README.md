@@ -10,7 +10,7 @@
 ## Project Guidelines and Evaluation Rubric
 
 ### General Description
-Students must develop a Machine Learning project during the course.  
+Students must develop two Machine Learning projects during the course.  
 The final deliverables are:  
 1. **Research Article (7–10 pages)** following an academic paper style (IEEE).  
 2. **Final Presentation (Week 8)** with live Q&A.  
